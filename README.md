@@ -16,9 +16,9 @@ This repo contains below files,
     
        docker run --rm -itd --name test-ansible docker-ansible
 
-   Connect to the running container
+   Connect to the running container:
       
-      docker exec -it test-ansible /bin/bash
+       docker exec -it test-ansible /bin/bash
 
 4) Once you are coneected to container you can clone git repo. It will ask username and password. Pleas eprovide your username of you github account and for password please provide Access 
    Token(PAT) genrated in your account and it should have access to your repo.
