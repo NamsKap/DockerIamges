@@ -14,7 +14,8 @@ This repo contains below files,
 5) When you have repo ready you can perform ansible commands to edit vault file or checkout and commit changes to git repo.
 
 
-I have created an image for this project, if you would like to pull image you can pull from below url or using below command: 
+I have created an image for this project, if you would like to pull image you can pull from below url or using below command : 
+
    docker pull namskap/namskap1176:ansibleproj 
 
 link for Docker repo : https://hub.docker.com/repository/docker/namskap/namskap1176/tags
