@@ -1,4 +1,4 @@
-# Docker Ansible Iamge
+# Run Ansible and git from Docker Image
 
 Prerequisites
 **** Docker Desktop should be installed on your machine.
