@@ -15,8 +15,7 @@ This repo contains below files,
 
 
 I have created an image for this project, if you would like to pull image you can pull from below url or using below command: 
-
-docker pull namskap/namskap1176:ansibleproj 
+   docker pull namskap/namskap1176:ansibleproj 
 
 link for Docker repo : https://hub.docker.com/repository/docker/namskap/namskap1176/tags
 
